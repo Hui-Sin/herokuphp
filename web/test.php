@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
 <!-- fix : document does not have <title> -->
-<title>Test php</title>
+<title>Test php to 100%</title>
 <!-- fix : document does not haveand <meta>,[name] and [content] -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
