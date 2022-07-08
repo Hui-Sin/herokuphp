@@ -8,9 +8,7 @@
 <!-- fix : document does not haveand <meta>,[name] and [content] -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- fix : document does not haveand <meta>,[description] and [content] -->
-<meta name="description" content="Author: A.N. Author,
-    Illustrator: P. Picture, Category: Books, Price: $17.99,
-    Length: 784 pages">
+<meta name="description" content="Fix the code to obtain a score of 100 for Performance, Accessibility, Best Practices and SEO.">
 </head>
 <body>
   Hello World!
