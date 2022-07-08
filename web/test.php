@@ -7,6 +7,9 @@
 <title>Test php to 100%</title>
 <!-- fix : document does not haveand <meta>,[name] and [content] -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Author: A.N. Author,
+    Illustrator: P. Picture, Category: Books, Price: $17.99,
+    Length: 784 pages">
 </head>
 <body>
   Hello World!
